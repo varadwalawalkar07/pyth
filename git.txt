@@ -1,0 +1,3 @@
+git add .
+git commit -m "Initialized for today"
+git push
